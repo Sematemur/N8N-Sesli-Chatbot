@@ -2,7 +2,12 @@ n8n ve Vapi AI kullanarak bir sesli asistan oluşturdum. Bu asistan ile sesli ko
 
 Vapi AI üzerinde bulunan asistanı kendi widgetini kullanarak siteye entegre ettim. 
 
-![Arayüz](arayuz_vapi.png)
+![Arayüz](arayuz_vapi.png) 
 
 ![n8n workflow](image.png)
 
+![Railway](logotype-light.png)
+
+![Vapi AI](7335ee15-c394-4a85-b2b7-7bc6faf56919.avif)
+
+![n8n](n8n.webp)
