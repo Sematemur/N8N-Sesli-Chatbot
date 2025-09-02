@@ -4,5 +4,5 @@ Vapi AI üzerinde bulunan asistanı kendi widgetini kullanarak siteye entegre et
 
 ![Arayüz](arayuz_vapi.png)
 
-![n8n workflow](arayuz_vapi.png)
+![n8n workflow](image.png)
 
